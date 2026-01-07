@@ -1,11 +1,11 @@
-## 🧩 Database Normalization — Notes
+## 🧩 Database Normalization
 
 Database normalization is the process of **structuring data to reduce redundancy, avoid anomalies, and preserve data integrity**.
 It answers one core question:
 
 > *How should data be split across tables so the database stays correct, scalable, and easy to maintain?*
 
-Normalization is not about memorizing normal forms—it’s about **thinking in dependencies**:
+Normalization is not about memorizing normal forms it’s about **thinking in dependencies**:
 how attributes relate, what truly belongs together, and what must be separated to prevent inconsistency.
 
 These notes focus on:
@@ -41,5 +41,5 @@ Real-world schema decisions
 * Revisit during **schema design problems**
 * Use for **DBMS interviews and system design discussions**
 
-Normalization is a tool—not a goal.
+Normalization is a tool not a goal.
 These notes treat it exactly that way.
