@@ -223,7 +223,7 @@ BEGIN → READ → WRITE → COMMIT / ROLLBACK
 | Durability  | Data persists   |
 
 📍 Banking analogy:
-Money deducted **only if** credited.
+Money deducted **only if** credited.  
 
 ---
 
